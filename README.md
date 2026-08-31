@@ -1,4 +1,4 @@
-# Driving Instructor Attendance
+# EverGreen Driving School Attendance
 
 Small, local-first attendance book for one driving instructor.
 
