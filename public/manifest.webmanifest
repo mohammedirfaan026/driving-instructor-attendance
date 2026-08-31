@@ -1,0 +1,9 @@
+{
+  "name": "Driving Instructor Attendance",
+  "short_name": "Attendance",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#f7f4ee",
+  "icons": []
+}

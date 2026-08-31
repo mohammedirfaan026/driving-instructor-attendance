@@ -53,3 +53,4 @@ function SettingsView({backup,onBackup}:{backup:string;onBackup:()=>void}){retur
 export default App
 
 createRoot(document.getElementById('root')!).render(<App />)
+if ('serviceWorker' in navigator) navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`).catch(() => {})
