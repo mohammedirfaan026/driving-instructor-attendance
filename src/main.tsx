@@ -880,7 +880,6 @@ function SettingsView({
           ) : (
             <button
               className="outline"
-              disabled={!driveActions.configured}
               onClick={driveActions.connect}
             >
               Connect Google
